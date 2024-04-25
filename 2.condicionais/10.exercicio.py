@@ -8,3 +8,4 @@ precoProduto=float(input("Digite o R$ do produto de acordo com a quantidade de k
 
 if qntdkgmacas>=8 and precoProduto>25:
     desconto=0.1
+    
